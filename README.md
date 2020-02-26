@@ -3,8 +3,8 @@
 Publicly available translation corpora for the English-Basque (en-eu) language pair.
 
 
-1. TED talks Eu-En (5,623 sentences): https://wit3.fbk.eu/mt.php?release=2018-01
-    1. Translation of TED talks released on the IWSLT 2018 shared-task
+1. IWSLT 2018: https://wit3.fbk.eu/mt.php?release=2018-01
+    1. TED talks (5,623 sentences): Translation of TED talks.
  
 2. OPUS: http://opus.nlpl.eu/
     1. EhuHac (0.6M sentences): Translations from 136 books (Eusko Jaurlaritza).
