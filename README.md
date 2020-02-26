@@ -3,10 +3,10 @@
 Publicly available translation corpora for the English-Basque (en-eu) language pair.
 
 
-## 1. IWSLT 2018: ## https://wit3.fbk.eu/mt.php?release=2018-01
+__1. IWSLT 2018:__ https://wit3.fbk.eu/mt.php?release=2018-01
     1. TED talks (5,623 sentences): Translation of TED talks.
  
-## 2. OPUS: ## http://opus.nlpl.eu/
+__2. OPUS:__ http://opus.nlpl.eu/
     1. EhuHac (0.6M sentences): Translations from 136 books (Eusko Jaurlaritza).
     2. OpenSubtitles (0.9M sentences): Collection of translated movie subtitles.
     3. Tatoeba (2,100 sentences): Collection of translated sentences from Tatoeba.
@@ -16,7 +16,7 @@ Publicly available translation corpora for the English-Basque (en-eu) language p
     7. Ubuntu (79,500 sentences): Localization files.
     8. QED (0.3M sentences): Subtitles of educational videos and lectures.
  
-## 3. WMT 2016 – IT shared task: ##  http://www.statmt.org/wmt16/it-translation-task.html
+__3. WMT 2016 – IT shared task:__ http://www.statmt.org/wmt16/it-translation-task.html
     1. PaCo2-EuEn, automatic gathering of parallel data (130,000 sentences)
     2. IT help-desk translations (3,000 sentences)
     3. Localization PO files (86.464 sentences)
